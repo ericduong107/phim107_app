@@ -1,0 +1,33 @@
+{
+  "name": "phim107-nodejs",
+  "version": "1.0.0",
+  "description": "Hosting + API service + resource service",
+  "keywords": [
+    "phim107",
+    "anime",
+    "video",
+    "phim",
+    "film",
+    "hoathinhtrungquoc",
+    "hhtq",
+    "anime2d"
+  ],
+  "homepage": "https://github.com/ericduong107/phim107_app/tree/main#readme",
+  "bugs": {
+    "url": "https://github.com/ericduong107/phim107_app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericduong107/phim107_app.git#main"
+  },
+  "license": "ISC",
+  "author": "Eric Duong",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
