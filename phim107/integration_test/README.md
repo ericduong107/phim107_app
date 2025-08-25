@@ -1,0 +1,1 @@
+# Kiểm thử tích hợp (ví dụ: flow đăng nhập)
